@@ -1,0 +1,122 @@
+[
+  {
+    "id": "atorvastatin_10mg",
+    "generic_name": "Atorvastatin",
+    "strength": "10mg",
+    "form": "Tablet",
+    "active_salt": "Atorvastatin Calcium",
+    "aliases": ["atorvastatin", "lipitor", "storvas", "atorlip", "aztor"],
+    "use_case": "Cholesterol Management",
+    "benchmark_brand": {
+      "name": "Lipitor",
+      "company": "Pfizer",
+      "price_inr": 238.00,
+      "pack": "10 tablets"
+    },
+    "best_alternative": {
+      "name": "Storvas",
+      "company": "Sun Pharmaceutical Industries Ltd.",
+      "price_inr": 76.50,
+      "pack": "10 tablets",
+      "who_gmp_certified": true,
+      "savings_percent": 67.9
+    },
+    "jan_aushadhi": {
+      "name": "Atorvastatin 10mg (PMBJP)",
+      "outlet": "Jan Aushadhi Kendra (PMBJP)",
+      "price_inr": 14.50,
+      "pack": "10 tablets",
+      "savings_percent": 93.9
+    }
+  },
+  {
+    "id": "telmisartan_40mg",
+    "generic_name": "Telmisartan",
+    "strength": "40mg",
+    "form": "Tablet",
+    "active_salt": "Telmisartan",
+    "aliases": ["telmisartan", "telma", "telpres", "telista", "arbitel", "telmikind"],
+    "use_case": "Hypertension / Blood Pressure Control",
+    "benchmark_brand": {
+      "name": "Telma",
+      "company": "Glenmark Pharmaceuticals",
+      "price_inr": 142.00,
+      "pack": "10 tablets"
+    },
+    "best_alternative": {
+      "name": "Telpres",
+      "company": "Micro Labs Ltd.",
+      "price_inr": 58.00,
+      "pack": "10 tablets",
+      "who_gmp_certified": true,
+      "savings_percent": 59.2
+    },
+    "jan_aushadhi": {
+      "name": "Telmisartan 40mg (PMBJP)",
+      "outlet": "Jan Aushadhi Kendra (PMBJP)",
+      "price_inr": 12.00,
+      "pack": "10 tablets",
+      "savings_percent": 91.5
+    }
+  },
+  {
+    "id": "metformin_500mg_sr",
+    "generic_name": "Metformin",
+    "strength": "500mg SR",
+    "form": "Sustained Release Tablet",
+    "active_salt": "Metformin Hydrochloride",
+    "aliases": ["metformin", "glycomet", "cetapin", "glucophage", "obimet", "formin", "metlong", "gluformin"],
+    "use_case": "Type 2 Diabetes Management",
+    "benchmark_brand": {
+      "name": "Glycomet SR",
+      "company": "USV Private Limited",
+      "price_inr": 48.00,
+      "pack": "10 tablets"
+    },
+    "best_alternative": {
+      "name": "Cetapin XR",
+      "company": "Aristo Pharmaceuticals Pvt. Ltd.",
+      "price_inr": 28.50,
+      "pack": "10 tablets",
+      "who_gmp_certified": true,
+      "savings_percent": 40.6
+    },
+    "jan_aushadhi": {
+      "name": "Metformin 500mg SR (PMBJP)",
+      "outlet": "Jan Aushadhi Kendra (PMBJP)",
+      "price_inr": 6.80,
+      "pack": "10 tablets",
+      "savings_percent": 85.8
+    }
+  },
+  {
+    "id": "amoxicillin_clavulanic_625mg",
+    "generic_name": "Amoxicillin + Clavulanic Acid",
+    "strength": "625mg",
+    "form": "Tablet",
+    "active_salt": "Amoxicillin Trihydrate + Potassium Clavulanate",
+    "aliases": ["amoxicillin", "clavulanic", "augmentin", "moxikind", "amoxyclav", "co-amoxiclav", "clavam", "amoxiclav", "augpen"],
+    "use_case": "Bacterial Infections / Antibiotic",
+    "benchmark_brand": {
+      "name": "Augmentin 625 Duo",
+      "company": "GlaxoSmithKline (GSK)",
+      "price_inr": 204.00,
+      "pack": "10 tablets"
+    },
+    "best_alternative": {
+      "name": "Moxikind-CV 625",
+      "company": "Mankind Pharma Ltd.",
+      "price_inr": 118.00,
+      "pack": "10 tablets",
+      "who_gmp_certified": true,
+      "savings_percent": 42.2
+    },
+    "jan_aushadhi": {
+      "name": "Amoxicillin+Clavulanic Acid 625mg (PMBJP)",
+      "outlet": "Jan Aushadhi Kendra (PMBJP)",
+      "price_inr": 45.00,
+      "pack": "10 tablets",
+      "savings_percent": 77.9
+    }
+  }
+]
